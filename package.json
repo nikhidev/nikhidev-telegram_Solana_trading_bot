@@ -1,0 +1,20 @@
+{
+  "name": "telegram-bot-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.43.0",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
